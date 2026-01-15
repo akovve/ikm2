@@ -1,0 +1,5 @@
+/Users/egorshestakov/Desktop/UniversityDBB/build/CMakeFiles/university_db.dir
+/Users/egorshestakov/Desktop/UniversityDBB/build/CMakeFiles/edit_cache.dir
+/Users/egorshestakov/Desktop/UniversityDBB/build/CMakeFiles/rebuild_cache.dir
+/Users/egorshestakov/Desktop/UniversityDBB/build/CMakeFiles/university_db_autogen_timestamp_deps.dir
+/Users/egorshestakov/Desktop/UniversityDBB/build/CMakeFiles/university_db_autogen.dir

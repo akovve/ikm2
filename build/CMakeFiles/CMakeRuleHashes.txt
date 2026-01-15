@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+8814197c5f04d37800a54e481008b65c CMakeFiles/university_db_autogen
+beaca29af26f55839dab7e45bbbc8cfd university_db_autogen/timestamp
